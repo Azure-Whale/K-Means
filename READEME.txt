@@ -1,0 +1,3 @@
+Code files and data files both are included in DM_homework4 folder.
+Relative shortcuts are saved in shortcuts folder as well.
+Other answers are included in written answer as pdf.
